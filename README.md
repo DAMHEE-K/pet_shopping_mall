@@ -2,18 +2,18 @@
 # Final 프로젝트
 ## 팀명: 잠은죽어서자조
 ### 주제: 반려동물 쇼핑몰, 커뮤니티
-#### PPT: https://drive.google.com/file/d/1JXCwiBcGlhiMQb6xCn4N4x2fpYdPxUO9/view
-##### ERD : https://www.erdcloud.com/d/um2YSc9wPtSd8jqPi
-
+#### 팀 PPT: https://drive.google.com/file/d/1JXCwiBcGlhiMQb6xCn4N4x2fpYdPxUO9/view
+#### ERD : https://www.erdcloud.com/d/um2YSc9wPtSd8jqPi
+#### 개인포트폴리오 : https://drive.google.com/file/d/1UCriiG748cOnOWaPuFmKQOgLZKKH2lmc/view?usp=sharing
   ## 팀원
   <ul>
   <li><b>김담희</b> (Team Leader, PM, PE, DBE, BE)</li>
   <li><b>전예라</b> (PL, PE, BE, Designer)</li>
-  <li><b>김대원</b> (BE)</li>
-  <li><b>이혜령</b> (BE)</li>
-  <li><b>전수경</b> (BE)</li>
-  <li><b>강선모</b> (BE)</li>
-  <li><b>김상훈</b> (BE) </li>
+  <li><b>김대원</b> (PE, BE)</li>
+  <li><b>이혜령</b> (PE, BE)</li>
+  <li><b>전수경</b> (PE, BE)</li>
+  <li><b>강선모</b> (PE, BE)</li>
+  <li><b>김상훈</b> (PE, BE) </li>
 </ul>
 
   ## Stack
@@ -58,7 +58,7 @@
 </ul>
 <br>
 
-## 팀원별 구현코드
+## 팀원별 스토리보드
 
 <h3>김담희</h3>
 <h4>결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회</h4>
