@@ -68,7 +68,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
 
 ## 📖 스토리보드
 #### 김담희
-결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회
+> 결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회
 <ul>
   <li><a href="https://drive.google.com/file/d/13WOphcLwsRIfdUYdfxyjjFRtMpd0ttex/view?usp=sharing">전체검색</a></li>
   <li><a href="https://drive.google.com/file/d/1RvMFOGjVGbtZROnHsdXBZ5SDJABK3yXB/view?usp=sharing">상품정렬</a></li>
@@ -80,7 +80,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
 </ul>
 
 #### 전예라
-웹 디자인, 쿠폰, 포인트, 이메일 API, QNA 회원/관리자 CRUD, 이용약관
+> 웹 디자인, 쿠폰, 포인트, 이메일 API, QNA 회원/관리자 CRUD, 이용약관
 <ul>
   <li><a href="https://drive.google.com/file/d/1dYBA0rNdZYeePq2pFeOLavzRAPF5TwhI/view?usp=sharing">쿠폰</li>
   <li><a href="https://drive.google.com/file/d/1CP9niuxq52DJAmY6wTuaEX027ev3eOaz/view?usp=sharing">포인트</li>
@@ -92,7 +92,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
 </ul>
 
 #### 김대원
-관리자 페이지 CRUD, 실시간알림
+> 관리자 페이지 CRUD, 실시간알림
 <ul>
   <li><a href="https://drive.google.com/file/d/1ROKcnH1qj3AEAp0os7vAkxHo8gYhlyRx/view?usp=sharing">알림</a></li>
   <li><a href="https://drive.google.com/file/d/1UomDY5qXZBf2nugLmcx2f3fB8Of8_-dB/view?usp=sharing">관리자페이지</a></li>
@@ -104,28 +104,28 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
 </ul>
 
 #### 이혜령
-리뷰 CRUD, 병원조회
+> 리뷰 CRUD, 병원조회
 <ul> 
   <li><a href="https://drive.google.com/file/d/17oKwylVQEUVWDjXHfqOgoK6UkrJ5cYXl/view?usp=drive_link">리뷰 CRUD</li> 
   <li><a href="https://drive.google.com/file/d/1otOuHM0aakB7MLvNBQAgSURlUZMsU3gG/view?usp=drive_link">병원조회</li> 
 </ul>
 
 #### 전수경
-상품 등록/수정/삭제
+> 상품 등록/수정/삭제
 <ul> 
     <li><a href="https://drive.google.com/file/d/13u7YAd-tmjEYmGs4SCaSzgGpV8c8TCqx/view?usp=sharing">(관리자)상품 등록</li>
     <li><a href="https://drive.google.com/file/d/1_YtTB3V6z4uCm8lwbmRHCnPfcAL5UnYz/view?usp=sharing">(관리자)상품 수정 및 삭제</li>
 </ul>
 
 #### 강선모
-찜 기능, 펫 CRUD
+> 찜 기능, 펫 CRUD
 <ul> 
   <li><a href="https://drive.google.com/file/d/1dFLEZQpOFn-N336lfIsjgKOj5Q2z78mj/view?usp=sharing">찜 기능</a></li>
   <li><a href="http://localhost:8080/pet/pet/petDetail.do?petId=1">펫 상세조회</a></li>
 </ul>
 
 #### 김상훈
-회원 CRUD, 로그인, 임시비밀번호 이메일 API, 주소 API
+> 회원 CRUD, 로그인, 임시비밀번호 이메일 API, 주소 API
 <ul> 
   <li><a href="https://drive.google.com/file/d/1nkntQ-kLKxSXVw0X_sfsO8tqrjQa97UI/view?usp=drive_link">로그인</a></li>
   <li><a href="https://drive.google.com/file/d/1hl75xkFLWpqrIcI9P-PUdriKR_5mQjFB/view?usp=drive_link">회원가입</a></li>
