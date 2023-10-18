@@ -56,10 +56,11 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>네이버 이메일 API</li>
 </ul>
 
-### Over view
+### 👀 Over view
 ![화면 캡처 2023-09-12 171336](https://github.com/DAMHEE-K/DAMHEE-K/assets/126038575/9b33e1e5-56b9-4953-b517-e99b10c72d8e)
+<br />
 
-### 스토리보드
+### 📖 스토리보드
 #### 김담희
 결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회
 <ul>
