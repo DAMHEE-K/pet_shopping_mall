@@ -33,29 +33,35 @@ Build : Gradle
 <br />
 Tools : STS3, VS code, SQLDEVELOPER, Github
 
-### 핵심 기능
-<ul> 주요 기능
-<li>회원 CRUD</li>
-<li>소셜 로그인</li>
-<li>관리자 페이지에서 매출 조회 및 상품 CRUD</li>
-<li>상품 주문 및 결제 서비스</li>
-<li>정기결제를 통한 멤버쉽(구독) 서비스</li>
-<li>포인트&쿠폰</li>
-<li>실시간 알림</li>
-</ul>
-<ul>사용한 오픈 API
-<li>카카오 로그인 API</li>
-<li>네이버 로그인 API</li>
-<li>카카오 주소검색 API</li>
-<li>아임포트 결제 API</li>
-<li>카카오맵 API</li>
-<li>위치기반 API</li>
-<li>네이버 이메일 API</li>
+### 🔎  주 기능
+#### 주요 기능
+<ul> 
+  <li>회원 CRUD</li>
+  <li>소셜 로그인</li>
+  <li>관리자 페이지에서 매출 조회 및 상품 CRUD</li>
+  <li>상품 주문 및 결제 서비스</li>
+  <li>정기결제를 통한 멤버쉽(구독) 서비스</li>
+  <li>포인트&쿠폰</li>
+  <li>실시간 알림</li>
 </ul>
 
+#### 사용한 오픈 API
+<ul>
+  <li>카카오 로그인 API</li>
+  <li>네이버 로그인 API</li>
+  <li>카카오 주소검색 API</li>
+  <li>아임포트 결제 API</li>
+  <li>카카오맵 API</li>
+  <li>위치기반 API</li>
+  <li>네이버 이메일 API</li>
+</ul>
+
+### Over view
+
+
 ### 스토리보드
-<h3>김담희</h3>
-<h4>결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회</h4>
+#### 김담희
+결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회
 <ul>
   <li><a href="https://drive.google.com/file/d/13WOphcLwsRIfdUYdfxyjjFRtMpd0ttex/view?usp=sharing">전체검색</a></li>
   <li><a href="https://drive.google.com/file/d/1RvMFOGjVGbtZROnHsdXBZ5SDJABK3yXB/view?usp=sharing">상품정렬</a></li>
@@ -66,8 +72,8 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li><a href="https://drive.google.com/file/d/1IO9SxdHSztuC8jQB8TDggaHcrnq13V05/view?usp=sharing">마이페이지 및 구독</a></li>
 </ul>
 
-<h3>전예라</h3>
-<h4>웹 디자인, 쿠폰, 포인트, 이메일 API, QNA 회원/관리자 CRUD, 이용약관</h4>
+#### 전예라
+웹 디자인, 쿠폰, 포인트, 이메일 API, QNA 회원/관리자 CRUD, 이용약관
 <ul>
   <li><a href="https://drive.google.com/file/d/1dYBA0rNdZYeePq2pFeOLavzRAPF5TwhI/view?usp=sharing">쿠폰</li>
   <li><a href="https://drive.google.com/file/d/1CP9niuxq52DJAmY6wTuaEX027ev3eOaz/view?usp=sharing">포인트</li>
@@ -78,8 +84,8 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li><a href="https://drive.google.com/file/d/1prvlyLEq0BN-93VoNVhilKDHPvJzrqgZ/view?usp=sharing">이용약관</li>
 </ul>
 
-<h3>김대원</h3>
-<h4>관리자 페이지 CRUD, 실시간알림</h4>
+#### 김대원
+관리자 페이지 CRUD, 실시간알림
 <ul>
   <li><a href="https://drive.google.com/file/d/1ROKcnH1qj3AEAp0os7vAkxHo8gYhlyRx/view?usp=sharing">알림</a></li>
   <li><a href="https://drive.google.com/file/d/1UomDY5qXZBf2nugLmcx2f3fB8Of8_-dB/view?usp=sharing">관리자페이지</a></li>
@@ -90,30 +96,29 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li><a href="https://drive.google.com/file/d/15a7Rfn8LZZ2wFUMa0IBYzRh_RsAjoeXp/view?usp=sharing">날짜별 매출 통계</a></li>
 </ul>
 
-<h3>이혜령</h3>
-<h4>리뷰 CRUD, 병원조회</h4>
+#### 이혜령
+리뷰 CRUD, 병원조회
 <ul> 
   <li><a href="https://drive.google.com/file/d/17oKwylVQEUVWDjXHfqOgoK6UkrJ5cYXl/view?usp=drive_link">리뷰 CRUD</li> 
   <li><a href="https://drive.google.com/file/d/1otOuHM0aakB7MLvNBQAgSURlUZMsU3gG/view?usp=drive_link">병원조회</li> 
 </ul>
 
-<h3>전수경</h3>
-<h4>상품 등록/수정/삭제</h4>
+#### 전수경
+상품 등록/수정/삭제
 <ul> 
     <li><a href="https://drive.google.com/file/d/13u7YAd-tmjEYmGs4SCaSzgGpV8c8TCqx/view?usp=sharing">(관리자)상품 등록</li>
     <li><a href="https://drive.google.com/file/d/1_YtTB3V6z4uCm8lwbmRHCnPfcAL5UnYz/view?usp=sharing">(관리자)상품 수정 및 삭제</li>
 </ul>
 
-<h3>강선모</h3>
-<h4>찜 기능, 펫 CRUD</h4>
+#### 강선모
+찜 기능, 펫 CRUD
 <ul> 
   <li><a href="https://drive.google.com/file/d/1dFLEZQpOFn-N336lfIsjgKOj5Q2z78mj/view?usp=sharing">찜 기능</a></li>
   <li><a href="http://localhost:8080/pet/pet/petDetail.do?petId=1">펫 상세조회</a></li>
-
 </ul>
 
-<h3>김상훈</h3>
-<h4>회원 CRUD, 로그인, 임시비밀번호 이메일 API, 주소 API</h4>
+#### 김상훈
+회원 CRUD, 로그인, 임시비밀번호 이메일 API, 주소 API
 <ul> 
   <li><a href="https://drive.google.com/file/d/1nkntQ-kLKxSXVw0X_sfsO8tqrjQa97UI/view?usp=drive_link">로그인</a></li>
   <li><a href="https://drive.google.com/file/d/1hl75xkFLWpqrIcI9P-PUdriKR_5mQjFB/view?usp=drive_link">회원가입</a></li>
