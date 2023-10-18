@@ -33,9 +33,6 @@ Build : Gradle
 <br />
 Tools : STS3, VS code, SQLDEVELOPER, Github
 
-### E-R 다이어그램
-<li> https://www.erdcloud.com/d/um2YSc9wPtSd8jqPi </li>
-
 ### 핵심 기능
 <ul> 주요 기능
 <li>회원 CRUD</li>
