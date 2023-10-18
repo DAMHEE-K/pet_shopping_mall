@@ -2,6 +2,7 @@
 
 ### 🔎 개요
 Spring Boot를 기반으로 MVC 아키텍처의 온라인 쇼핑몰 웹 페이지를 개발하는 것을 목표로 했습니다. 사용자는 제품을 검색하고 쇼핑 카트에 제품을 추가할 수 있으며, 주문 및 결제/환불할 수 있습니다. 관리자가 제품을 추가 및 관리할 수 있는 기능을 제공합니다. 
+<hr />
 
 ### 👩‍👧‍👧 개발 기간 및 인원
 2023.08.14 ~ 2023.09.04 (3주)
@@ -12,11 +13,13 @@ Spring Boot를 기반으로 MVC 아키텍처의 온라인 쇼핑몰 웹 페이�
 <li>이혜령</li>
 <li>전수경</li>
 <li>강선모</li>
+<hr />
 
 ### ✍ 참고 문서
 <li> Team PPT: https://drive.google.com/file/d/1JXCwiBcGlhiMQb6xCn4N4x2fpYdPxUO9/view </li>
 <li> ERD : https://www.erdcloud.com/d/um2YSc9wPtSd8jqPi </li>
 <li> Portfolio : https://drive.google.com/file/d/1owL0CXJV9sRILDWQsQZH_TPSxVz4-_4Y/view?usp=sharing </li>
+<hr />
 
 ### 💻 Tech Stack
 Back-End : Java + Spring boot + Spring security
@@ -25,6 +28,7 @@ Database : Oracle(OCI) + MyBatis
 <br />
 Front-End : JSP + html&css + Javascript + jQuery
 <br />
+<hr />
 
 ### ⚙ 개발환경
 OS : window10
@@ -32,6 +36,7 @@ OS : window10
 Build : Gradle
 <br />
 Tools : STS3, VS code, SQLDEVELOPER, Github
+<hr />
 
 ### 🔎  주 기능
 #### 주요 기능
@@ -44,6 +49,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>포인트&쿠폰</li>
   <li>실시간 알림</li>
 </ul>
+<hr />
 
 #### 사용한 오픈 API
 <ul>
@@ -55,10 +61,12 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>위치기반 API</li>
   <li>네이버 이메일 API</li>
 </ul>
+<hr />
 
 ### 👀 Over view
 ![화면 캡처 2023-09-12 171336](https://github.com/DAMHEE-K/DAMHEE-K/assets/126038575/9b33e1e5-56b9-4953-b517-e99b10c72d8e)
 <br />
+<hr />
 
 ### 📖 스토리보드
 #### 김담희
