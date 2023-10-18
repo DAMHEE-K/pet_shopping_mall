@@ -13,32 +13,32 @@ Spring Boot를 기반으로 MVC 아키텍처의 온라인 쇼핑몰 웹 페이�
 <li>이혜령</li>
 <li>전수경</li>
 <li>강선모</li>
-* * *
 
-### ✍ 참고 문서
+
+## ✍ 참고 문서
 <li> Team PPT: https://drive.google.com/file/d/1JXCwiBcGlhiMQb6xCn4N4x2fpYdPxUO9/view </li>
 <li> ERD : https://www.erdcloud.com/d/um2YSc9wPtSd8jqPi </li>
 <li> Portfolio : https://drive.google.com/file/d/1owL0CXJV9sRILDWQsQZH_TPSxVz4-_4Y/view?usp=sharing </li>
-* * *
 
-### 💻 Tech Stack
+
+## 💻 Tech Stack
 Back-End : Java + Spring boot + Spring security
 <br />
 Database : Oracle(OCI) + MyBatis
 <br />
 Front-End : JSP + html&css + Javascript + jQuery
 <br />
-* * *
 
-### ⚙ 개발환경
+
+## ⚙ 개발환경
 OS : window10
 <br />
 Build : Gradle
 <br />
 Tools : STS3, VS code, SQLDEVELOPER, Github
-* * *
 
-### 🔎  주 기능
+
+## 🔎  주 기능
 #### 주요 기능
 <ul> 
   <li>회원 CRUD</li>
@@ -49,7 +49,6 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>포인트&쿠폰</li>
   <li>실시간 알림</li>
 </ul>
-* * *
 
 #### 사용한 오픈 API
 <ul>
@@ -61,14 +60,14 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>위치기반 API</li>
   <li>네이버 이메일 API</li>
 </ul>
-* * *
 
-### 👀 Over view
+
+## 👀 Over view
 ![화면 캡처 2023-09-12 171336](https://github.com/DAMHEE-K/DAMHEE-K/assets/126038575/9b33e1e5-56b9-4953-b517-e99b10c72d8e)
 <br />
-* * *
 
-### 📖 스토리보드
+
+## 📖 스토리보드
 #### 김담희
 결제, 정기결제, 장바구니, 주문 CRUD, 구독, 상품조회
 <ul>
