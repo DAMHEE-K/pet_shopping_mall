@@ -38,7 +38,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
 <br /><br />
 
 ## 🔎  주 기능
-#### 주요 기능
+> 주요 기능
 <ul> 
   <li>회원 CRUD</li>
   <li>소셜 로그인</li>
@@ -49,7 +49,7 @@ Tools : STS3, VS code, SQLDEVELOPER, Github
   <li>실시간 알림</li>
 </ul>
 
-#### 사용한 오픈 API
+> 사용한 오픈 API
 <ul>
   <li>카카오 로그인 API</li>
   <li>네이버 로그인 API</li>
